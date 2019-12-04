@@ -1,1 +1,1 @@
-web: gunicorn socialnetwork.wsgi
+web: gunicorn travelloapp.wsgi
